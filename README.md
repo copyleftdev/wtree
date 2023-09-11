@@ -40,6 +40,3 @@ wtree path/to/directory
 5. Commit and push your changes to your fork.
 6. Create a pull request.
 
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
